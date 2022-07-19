@@ -9,17 +9,23 @@ app_color = "Blue"
 app_email = "support@akwad.qa"
 app_license = "MIT"
 
+# ################# below lines added manually ##############################
+website_context = {
+	"favicon": 	"/assets/akwad/images/akwad-logo-symbol.svg",
+	"splash_image": "/assets/akwad/images/akwad-logo-symbol.svg"
+}
+
 # Includes in <head>
 # ------------------
-
 # include js, css files in header of desk.html
 # app_include_css = "/assets/akwad_ui_fixes/css/akwad_ui_fixes.css"
+# ################# below lines added manually ##############################
 # app_include_js = "/assets/akwad_ui_fixes/js/akwad_ui_fixes.js"
-
+app_include_css = "/assets/akwad_ui_fixes/css/akwad_ui_fixes_desk.css"
+# ################# below lines added manually ##############################
 # include js, css files in header of web template
-# web_include_css = "/assets/akwad_ui_fixes/css/akwad_ui_fixes.css"
-# web_include_js = "/assets/akwad_ui_fixes/js/akwad_ui_fixes.js"
-
+web_include_css = "/assets/akwad_ui_fixes/css/akwad_ui_fixes_web.css"
+web_include_js = "/assets/akwad_ui_fixes/js/akwad_ui_fixes_web.js"
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "akwad_ui_fixes/public/scss/website"
 
