@@ -11,8 +11,8 @@ app_license = "MIT"
 
 # ################# below lines added manually ##############################
 website_context = {
-	"favicon": 	"/assets/akwad/images/akwad-logo-symbol.svg",
-	"splash_image": "/assets/akwad/images/akwad-logo-symbol.svg"
+	"favicon": 	"/assets/akwad_ui_fixes/images/akwad-logo-symbol.svg",
+	"splash_image": "/assets/akwad_ui_fixes/images/akwad-logo-symbol.svg"
 }
 
 # Includes in <head>
