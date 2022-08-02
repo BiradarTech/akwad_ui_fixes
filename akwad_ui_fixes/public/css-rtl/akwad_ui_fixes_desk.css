@@ -157,3 +157,7 @@ li[style*="direction: rtl;"].ql-indent-5 {
 .ql-editor ol li:first-child {
 	padding-top: 10px !important;
 }
+
+.dt-instance-1 .dt-cell--col-1 {
+ text-align: right;
+}

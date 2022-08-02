@@ -200,3 +200,7 @@ html[data-theme='light'] .widget {
     background: #b5e7c7;
     color: var(--text-on-green);
 }
+
+.dt-instance-1 .dt-cell--col-1 {
+ text-align: right;
+}
