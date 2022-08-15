@@ -158,6 +158,6 @@ li[style*="direction: rtl;"].ql-indent-5 {
 	padding-top: 10px !important;
 }
 
-.dt-instance-1 .dt-cell--col-1 {
+.dt-cell__content {
  text-align: right;
 }
