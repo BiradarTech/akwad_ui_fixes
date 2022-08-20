@@ -163,12 +163,6 @@ li[style*="direction: rtl;"].ql-indent-5 {
     padding: 0;
 }
 
-html[data-theme='light'] .widget {
-    box-shadow: 1px 2px 4px #f0f4f7;
-    background-color: #e9f2f7;
-    border: 1px solid #76c6ed;
-}
-
 .desk-sidebar .standard-sidebar-item:hover, .search-dialog .search-results .search-sidebar .standard-sidebar-item:hover, .standard-sidebar .standard-sidebar-item:hover {
     background-color: #c9e5ff;
     text-decoration: none;
