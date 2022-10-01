@@ -15,6 +15,9 @@ website_context = {
 	"splash_image": "/assets/akwad_ui_fixes/images/akwad-logo-symbol.svg"
 }
 
+fixtures =  [
+            {"dt" : "Custom Field", "filters" : [["ind_module","in", "Akwad UI Fixes"]]}
+            ]
 # Includes in <head>
 # ------------------
 # include js, css files in header of desk.html
