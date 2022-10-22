@@ -192,3 +192,13 @@ li[style*="direction: rtl;"].ql-indent-5 {
 .dt-instance-1 .dt-cell--col-1 {
  text-align: right;
 }
+
+.widget.links-widget-box {
+ background: #ebf6ff;
+}
+
+
+.shortcut-widget-box {
+ background: #c5e3ff;
+ padding: 15px;
+}
