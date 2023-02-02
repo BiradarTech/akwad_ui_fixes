@@ -16,7 +16,7 @@ website_context = {
 }
 
 fixtures =  [
-            {"dt" : "Custom Field", "filters" : [["ind_module","in", "Akwad UI Fixes"]]}
+            {"dt" : "Custom Field", "filters" : [["fieldname","in", "ind_module"]]}
             ]
 # Includes in <head>
 # ------------------
