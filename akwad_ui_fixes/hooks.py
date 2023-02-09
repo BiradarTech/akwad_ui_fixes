@@ -10,10 +10,10 @@ app_email = "support@akwad.qa"
 app_license = "MIT"
 
 # ################# below lines added manually ##############################
-website_context = {
-	"favicon": 	"/assets/akwad_ui_fixes/images/akwad-logo-symbol.svg",
-	"splash_image": "/assets/akwad_ui_fixes/images/akwad-logo-symbol.svg"
-}
+#website_context = {
+#	"favicon": 	"/assets/akwad_ui_fixes/images/akwad-logo-symbol.svg",
+#	"splash_image": "/assets/akwad_ui_fixes/images/akwad-logo-symbol.svg"
+#}
 
 fixtures =  [
             {"dt" : "Custom Field", "filters" : [["fieldname","in", "ind_module"]]}
