@@ -65,15 +65,6 @@ html[data-theme='light'] .ql-editor.read-mode .mention {
     font-weight: 500;
 }
 
-html[data-theme='light'] .ql-editor .ql-code-block-container {
-    font-family: monospace;
-    background-color: var(--control-bg);
-    color: #2f3337;
-    margin: 5px;
-    padding: 5px 10px;
-    border-radius: 3px;
-}
-
 html[data-theme='light'] .timeline-message-box .text-color {
     font-weight: 600;
     color: #3870ba;
